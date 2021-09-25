@@ -17,4 +17,4 @@ You can see their latest updates at [@cocktalkderby](https://twitter.com/@cockta
 
 ![Shotwell Candy](/images/partners/ShotwellCandy.jpeg "Shotwell Candy")
 
-This mug is awarded to winners of WhiteBeakGang Merch Giveaways who have a White Beak with Lakenvelder Heritage
+These Caramels and Toffees from [Shotwell Candy](https://www.shotwellcandy.com/) are next level delicious and don't stick to your teeth! We have partnered with Shotwell Candy for giveaways to WBG members and reduced/free shipping on orders. Try some today to see what all the buzz is about!
