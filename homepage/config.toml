@@ -1,0 +1,66 @@
+baseURL = "https://whitebeakgang.com/"
+defaultContentLanguage = "en"
+languageCode = "en"
+
+title = "White Beak Gang"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[params]
+  footer = "WhiteBeakGang"
+  accentColor = "#4F74CA"
+  description = ""
+  avatarURL = "/images/whitebeakgang/WhiteBeakGangLogo.jpeg"
+  avatarSize = "size-m"
+  socialIcons = [
+    {name = "discord", url = "https://discord.gg/4DhfT6Dnqg"},
+    {name = "twitter", url = "https://twitter.com/whitebeakgang"},
+    {name = "youtube", url = "https://www.youtube.com/channel/UCeu3L93w2TixqTuBbism2-w"},
+    {name = "facebook", url = "https://www.facebook.com/groups/whitebeakgang"},
+    {name = "twitch", url = "https://www.twitch.tv/whitebeakgang"},
+  ]
+  metaKeywords = ["blog", "gokarna", "hugo"]
+    showpostsonhomepage = "recent"
+
+[menu]
+  # [[menu.main]]
+    # Unique identifer for a menu item
+    # identifier = "posts"
+
+    # url = "/posts/"
+    
+    # You can add extra information before the name (HTML format is supported), such as icons
+    # pre = ""
+
+    # You can add extra information after the name (HTML format is supported), such as icons
+    # post = "📝"
+
+    # Display name
+    # name = "Posts"
+    
+    # Weights are used to determine the ordering
+    # weight = 1
+
+  [[menu.main]]
+    identifier = "roadmap"
+    name = "Roadmap"
+    post = "🗺️"
+    url = "/roadmap/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "showcase"
+    name = "Showcase"
+    post = "🖼️"
+    url = "/showcase/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "partners"
+    name = "Partners"
+    post = "🤝"
+    url = "/partners/"
+    weight = 4
