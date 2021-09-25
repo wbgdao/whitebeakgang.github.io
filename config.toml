@@ -47,20 +47,20 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "roadmap"
     name = "Roadmap"
-    post = "🗺️"
+    post = ""
     url = "/roadmap/"
     weight = 2
 
   [[menu.main]]
     identifier = "showcase"
     name = "Showcase"
-    post = "🖼️"
+    post = ""
     url = "/showcase/"
     weight = 3
 
   [[menu.main]]
     identifier = "partners"
     name = "Partners"
-    post = "🤝"
+    post = ""
     url = "/partners/"
     weight = 4
