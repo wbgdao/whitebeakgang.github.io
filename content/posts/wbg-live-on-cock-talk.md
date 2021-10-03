@@ -21,7 +21,7 @@ Read below for more details on the event and how to qualify! Don't miss out!
 - 1PM Sydney Monday October 4th
 - 3AM London Monday October 4th
 
-### Important Giveaway Info
+## Important Giveaway Info
 
 To qualify for the giveaways you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
 
