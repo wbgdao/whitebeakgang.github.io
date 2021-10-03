@@ -8,7 +8,9 @@ draft: false
 
 The [Coop Collective](https://coopcollective.io) will be featuring WhiteBeakGang this Sunday on the [Cock Talk Podcast](https://www.youtube.com/channel/UC3YfNW0BMe-qaavWOj-Kp8Q). 
 
-There will be giveaways and special surprises for those that tune in live! 
+There will be giveaways and special surprises for those that tune in live!
+
+Remember that you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
 
 Read below for more details on the event and how to qualify! Don't miss out!
 
@@ -21,13 +23,15 @@ Read below for more details on the event and how to qualify! Don't miss out!
 
 ### Important Giveaway Info
 
-Remember that you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
+To qualify for the giveaways you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
 
 The giveaways will happen in the `🎁wb-giveaway` and `🎉giveaways` channels in the discord server
 
 You will not need a White Beak to qualify for giveaways in the `🎁wb-giveaway` channel where whitebeak chickens are given away to bring people into the group
 
 You will however need a White Beak to get access to the `🎉giveaways` channel and other restricted areas with additional higher tier perks
+
+Some giveaways and other surprises will only run the duration of the event so make sure to tune in live for those!
 
 ## We will be discussing:
 - The WhiteBeakGang Mission and what we hope to accomplish long term in our [roadmap](/roadmap/)
