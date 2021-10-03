@@ -8,15 +8,26 @@ draft: false
 
 The [Coop Collective](https://coopcollective.io) will be featuring WhiteBeakGang this Sunday on the [Cock Talk Podcast](https://www.youtube.com/channel/UC3YfNW0BMe-qaavWOj-Kp8Q). 
 
-There will be giveaways and special surprises for those that tune in live! Don't miss out!
+There will be giveaways and special surprises for those that tune in live! 
 
+Read below for more details on the event and how to qualify! Don't miss out!
+
+{{< tweet 1443630572551741449 >}}
 #### The Stream starts at: 
 - 10PM EST Sunday October 3rd
 - 7PM PST Sunday October 3rd
 - 1PM Sydney Monday October 4th
 - 3AM London Monday October 4th
 
-{{< tweet 1443630572551741449 >}}
+### Important Giveaway Info
+
+Remember that you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
+
+The giveaways will happen in the `🎁wb-giveaway` and `🎉giveaways` channels in the discord server
+
+You will not need a White Beak to qualify for giveaways in the `🎁wb-giveaway` channel where whitebeak chickens are given away to bring people into the group
+
+You will however need a White Beak to get access to the `🎉giveaways` channel and other restricted areas with additional higher tier perks
 
 ## We will be discussing:
 - The WhiteBeakGang Mission and what we hope to accomplish long term in our [roadmap](/roadmap/)
