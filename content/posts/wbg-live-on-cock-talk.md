@@ -8,7 +8,7 @@ draft: false
 
 The [Coop Collective](https://coopcollective.io) will be featuring WhiteBeakGang this Sunday on the [Cock Talk Podcast](https://www.youtube.com/channel/UC3YfNW0BMe-qaavWOj-Kp8Q). 
 
-There will be giveaways and special surprises for those that tune in live!
+There will be giveaways and special surprises for those that tune in live! If you are already in WBG and can't make it live, don't worry as there will be something for you guys too!
 
 Remember that you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
 
