@@ -3,55 +3,77 @@ title: "WhiteBeakGang Roadmap"
 type: page
 ---
 
-## Public Discord
+## Join us on Discord
 
 ![Public Discord](/images/roadmap/public-discord.jpeg "Public Discord")
 
-The WhiteBeakGang has opened a public [Discord](https://discord.gg/4DhfT6Dnqg) for all of it's members and the larger community.
+It's all about Community! WhiteBeak holder or not--everyone is welcome.
 
-This is to provide a place to plan and discuss things as a team and work together to achieve our goals.
+Our [Discord](https://discord.gg/4DhfT6Dnqg) is designed to enhance the Chicken Derby experience and bring together like-minded derby enthusiasts for teamwork and support.
+
+Come chat, learn, strategize and join the fun!
 
 [Read More](/roadmap/public-discord)
 
-## WBG Snacks
+## Snacks are on us!
 
 ![WBG Snacks](/images/roadmap/wbg-snacks.jpeg "WBG Snacks")
 
-Working on adding value to a community is tough work and the WhiteBeakGang wants to make sure everyone has the energy needed to power through. Check out the `☕️free-snacks` channel in the [Discord](https://discord.gg/4DhfT6Dnqg) to refuel! The snack account will be refilled weekly so grab a coffee and chat a while with your fellow WhiteBeaks.
+We work long and Play hard. To make sure we keep that little edge The WhiteBeaks provide free snacks and energy through the `☕️free-snacks` channel in our [Discord](https://discord.gg/4DhfT6Dnqg). 
+
+Early morning, late night or when you  need a little extra refueling, grab a coffee on us and let’s keep working!
 
 [Read More](/roadmap/wbg-snacks)
 
-## WBG Giveaways
+## Contests, Giveaways and Merch
 
 ![WBG Giveaways](/images/roadmap/wbg-giveaways.jpeg "WBG Giveaways")
 
-WhiteBeakGang Merch and other Giveaways have started for all WBG members. These can be found in the public Discord in the `🎉Giveaways` channel. They are free to enter so make sure you are taking full advantage!
+You're missing out if you're not joining our contests and giveaways.
+
+Would you like one of our WhiteBeak coffee mugs? Want to win some Chickens for the Derby? How does winning another WhiteBeak sound?
+
+Come on in and join the games, share some laughs, create a meme and have some fun.
+
+Loads of contests and giveaways for our WhiteBeak Merch and other items in the `🎉Giveaways` channel.
+
+Clock is ticking!!
 
 [Read More](/roadmap/wbg-giveaways)
 
-## Website Launch
+## 3..2..1.. Website Activated.. Not just for WhiteBeaks!
 
 ![WBG Website](/images/roadmap/website-launch.png "WBG Website")
 
-The website you are visiting now has been put together to be a singular place to find official news and updates being shared from the WhiteBeak community. Visit here to see our official Partners, Merch Showcase, Roadmap, and recent blog posts and stay up to date on all things WBG.
+Of course you’ll find your WhiteBeak official news and updates from the WhiteBeak Community.
+
+But you’ll also find information on our Official [Partners](/partners), our [Showcase](/showcase) of Merchandise, [Roadmap](/roadmap), Blogs and more!
+
+There’s a few more surprises up our sleeve.. Coming Soon!!
 
 [Read More](/roadmap/wbg-website)
 
-## WBG Membership Token Launch
+## WhiteBeakGang Token Launch
 
 ![WBG Mystery](/images/roadmap/wbg-mystery.jpeg "WBG Mystery")
 
-These limited edition tokens will be used to grant access to the WBG community and qualify people for various activities. More details regarding the various utilities to come soon. Stay tuned!
+You heard that right!
+
+These limited edition tokens will be used to grant access to the WhiteBeak Community as well as qualify you for even MORE games, contests and giveaways!
+
+We have some other utilities we’re working on. Stay Tuned! More to come..
 
 [Read More](/roadmap/wbg-token-launch)
 
-## Know Your Chickens / Bawku
+## Bawku.. Hawku for Chickens!
 
 ![Chicken Analysis Websites](/images/roadmap/chicken-analysis-websites.jpeg "Chicken Analysis Websites")
 
-The popular sites for doing horse analysis and market research in Zed Run are desperately needed for Chicken Derby as well so WhiteBeakGang will be building them!
+The amazing market analysis that Hawku provides for the ever so popular Zed Run is desperately needed for our Chickens! No one understands this more than us!
 
-These will be open to the entire community so that everyone will be able to access this info to make more informed decisions.
+So, WhiteBeakGang is building it! Our new Bawku project will be open to the community, not just WhiteBeak  members.
+
+The WhiteBeakGang wants to ensure that the entire Chicken Derby Community is able to access this bank of information so that everyone can view the data and make well-informed decisions on how to manage your coop.
 
 [Read More](/roadmap/chicken-analysis-websites)
 
@@ -59,7 +81,11 @@ These will be open to the entire community so that everyone will be able to acce
 
 ![WBG Mystery](/images/roadmap/wbg-mystery.jpeg "WBG Mystery")
 
-The WhiteBeakGang DAO! A collaborative approach to asset management among team members. More details to come on how to join and qualify.
+Our DAO is on the way!
+
+This will be a collaborative approach to asset management amongst our team members.
+
+More details will be coming soon on how to join and qualify for our DAO.
 
 [Read More](/roadmap/wbg-dao)
 
@@ -67,6 +93,10 @@ The WhiteBeakGang DAO! A collaborative approach to asset management among team m
 
 ![WBG Incubator](/images/roadmap/wbg-incubator.jpeg "WBG Incubator")
 
-The WhiteBeakGang is a chance for WBG to help jump start community projects by providing the necessary network of resources to support their endeavors.
+This is all for our community.
+
+The Incubator's mission is to provide the necessary network of resources and support to help jump start even MORE community projects!
+
+Talk to us about your project and we'll see what we can do.
 
 [Read More](/roadmap/wbg-incubator)

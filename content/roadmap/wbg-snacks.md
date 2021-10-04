@@ -1,5 +1,5 @@
 ---
-title: WBG Snacks
+title: Snacks are on us!
 type: page
 ---
 
@@ -9,6 +9,8 @@ type: page
 | ------------------ | --------- |
 | September 4th 2021 | Complete  |
 
-Working on adding value to a community is tough work and the WhiteBeakGang wants to make sure everyone has the energy needed to power through. Check out the `☕️free-snacks` channel in the [Discord](https://discord.gg/4DhfT6Dnqg) to refuel! The snack account will be refilled weekly so grab a coffee and chat a while with your fellow WhiteBeaks.
+We work long and Play hard. To make sure we keep that little edge The WhiteBeaks provide free snacks and energy through the `☕️free-snacks` channel in our [Discord](https://discord.gg/4DhfT6Dnqg).
+
+Early morning, late night or when you  need a little extra refueling, grab a coffee on us and let’s keep working!
 
 [Back to Roadmap](/roadmap)

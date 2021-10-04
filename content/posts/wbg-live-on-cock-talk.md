@@ -27,7 +27,7 @@ To qualify for the giveaways you will need to follow both [@WhiteBeakGang](https
 
 The giveaways will happen in the `🎁wb-giveaway` and `🎉giveaways` channels in the discord server
 
-You will not need a White Beak to qualify for giveaways in the `🎁wb-giveaway` channel where whitebeak chickens are given away to bring people into the group
+You will not need a White Beak to qualify for giveaways in the `🎁wb-giveaway` channel where WhiteBeak chickens are given away to bring people into the group
 
 You will however need a White Beak to get access to the `🎉giveaways` channel and other restricted areas with additional higher tier perks
 

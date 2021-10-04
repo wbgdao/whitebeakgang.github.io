@@ -9,6 +9,10 @@ type: page
 | ------------------ | ------------ |
 | To Be Announced    | In Planning  |
 
-The WhiteBeakGang DAO! A collaborative approach to asset management among team members. More details to come on how to join and qualify.
+Our DAO is on the way!
+
+This will be a collaborative approach to asset management amongst our team members.
+
+More details will be coming soon on how to join and qualify for our DAO.
 
 [Back to Roadmap](/roadmap)

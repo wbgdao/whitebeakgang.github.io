@@ -1,5 +1,5 @@
 ---
-title: WBG Giveaways
+title: Contests, Giveaways and Merch
 type: page
 ---
 
@@ -9,6 +9,14 @@ type: page
 | ------------------- | --------- |
 | September 12th 2021 | Complete  |
 
-WhiteBeakGang Merch and other Giveaways have started for all WBG members. These can be found in the public Discord in the `🎉Giveaways` channel. They are free to enter so make sure you are taking full advantage!
+You're missing out if you're not joining our contests and giveaways.
+
+Would you like one of our WhiteBeak coffee mugs? Want to win some Chickens for the Derby? How does winning another WhiteBeak sound?
+
+Come on in and join the games, share some laughs, create a meme and have some fun.
+
+Loads of contests and giveaways for our WhiteBeak Merch and other items in the `🎉Giveaways` channel.
+
+Clock is ticking!!
 
 [Back to Roadmap](/roadmap)

@@ -1,5 +1,5 @@
 ---
-title: Know Your Chickens / Bawku
+title: Bawku.. Hawku for Chickens!
 type: page
 ---
 
@@ -9,8 +9,10 @@ type: page
 | ------------------ | ------------ |
 | To Be Announced    | In Progress  |
 
-The popular sites for doing horse analysis and market research in Zed Run are desperately needed for Chicken Derby as well so WhiteBeakGang will be building them!
+The amazing market analysis that Hawku provides for the ever so popular Zed Run is desperately needed for our Chickens! No one understands this more than us!
 
-These will be open to the entire community so that everyone will be able to access this info to make more informed decisions.
+So, WhiteBeakGang is building it! Our new Bawku project will be open to the community, not just WhiteBeak  members.
+
+The WhiteBeakGang wants to ensure that the entire Chicken Derby Community is able to access this bank of information so that everyone can view the data and make well-informed decisions on how to manage your coop.
 
 [Read More](/roadmap/chicken-analysis-websites)

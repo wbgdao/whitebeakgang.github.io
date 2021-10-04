@@ -1,5 +1,5 @@
 ---
-title: Public Discord
+title: Join us on Discord
 type: page
 ---
 
@@ -9,8 +9,10 @@ type: page
 | ------------------ | --------- |
 | September 4th 2021 | Complete  |
 
-The WhiteBeakGang has opened a public [Discord](https://discord.gg/4DhfT6Dnqg) for all of it's members and the larger community.
+It's all about Community! WhiteBeak holder or not--everyone is welcome.
 
-This is to provide a place to plan and discuss things as a team and work together to achieve our goals.
+Our [Discord](https://discord.gg/4DhfT6Dnqg) is designed to enhance the Chicken Derby experience and bring together like-minded derby enthusiasts for teamwork and support.
+
+Come chat, learn, strategize and join the fun!
 
 [Back to Roadmap](/roadmap)

@@ -1,9 +1,7 @@
 ---
-title: WBG Incubator
+title: WhiteBeakGang Incubator
 type: page
 ---
-
-## WhiteBeakGang Incubator
 
 ![WBG Incubator](/images/roadmap/wbg-incubator.jpeg "WBG Incubator")
 
@@ -11,6 +9,10 @@ type: page
 | ------------------ | ------------ |
 | To Be Announced    | In Planning  |
 
-The WhiteBeakGang is a chance for WBG to help jump start community projects by providing the necessary network of resources to support their endeavors.
+This is all for our community.
+
+The Incubator's mission is to provide the necessary network of resources and support to help jump start even MORE community projects!
+
+Talk to us about your project and we'll see what we can do.
 
 [Back to Roadmap](/roadmap)

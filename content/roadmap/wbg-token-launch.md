@@ -1,5 +1,5 @@
 ---
-title: WBG Token Launch
+title: WhiteBeakGang Token Launch
 type: page
 ---
 
@@ -9,6 +9,10 @@ type: page
 | ------------------ | ------------ |
 | To Be Announced    | In Progress  |
 
-These limited edition tokens will be used to grant access to the WBG community and qualify people for various activities. More details regarding the various utilities to come soon. Stay tuned!
+You heard that right!
+
+These limited edition tokens will be used to grant access to the WhiteBeak Community as well as qualify you for even MORE games, contests and giveaways!
+
+We have some other utilities we’re working on. Stay Tuned! More to come..
 
 [Back to Roadmap](/roadmap)

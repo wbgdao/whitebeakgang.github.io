@@ -1,5 +1,5 @@
 ---
-title: WBG Website Launch
+title: 3..2..1.. Website Activated.. Not just for WhiteBeaks!
 type: page
 ---
 
@@ -9,6 +9,10 @@ type: page
 | ------------------- | --------- |
 | September 25th 2021 | Complete  |
 
-The website you are visiting now has been put together to be a singular place to find official news and updates being shared from the WhiteBeak community. Visit here to see our official Partners, Merch Showcase, Roadmap, and recent blog posts and stay up to date on all things WBG.
+Of course you’ll find your WhiteBeak official news and updates from the WhiteBeak Community.
+
+But you’ll also find information on our Official [Partners](/partners), our [Showcase](/showcase) of Merchandise, [Roadmap](/roadmap), Blogs and more!
+
+There’s a few more surprises up our sleeve.. Coming Soon!!
 
 [Back to Roadmap](/roadmap)
