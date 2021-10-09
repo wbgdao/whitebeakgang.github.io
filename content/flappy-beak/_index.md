@@ -17,7 +17,15 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
 <img class="asset" src="/assets/cloud.png" />
 <img class="asset" src="/assets/ground.png" />
 <img class="asset" src="/assets/pipe.png" /> -->
-<canvas width="800" height="500" id="canvas" tabindex="1"></canvas>
+<style>
+#game-container {
+    width: 100%;
+    overflow: hidden;
+}
+</style>
+<div id="game-container">
+    <canvas width="800" height="500" id="canvas" tabindex="1"></canvas>
+</div>
 <script src="/vendor/libs/class.js"></script>
 <script>
 
@@ -388,8 +396,8 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.context.fillStyle = "#000";
             this.context.textAlign = "center";
             this.context.font = "bold 30px helvetica";
-            this.context.fillText("GAME OVER", 400, 240);
-            this.context.fillText("SCORE: " + this.score, 400, 280);
+            this.context.fillText("GAME OVER", 150, 240);
+            this.context.fillText("SCORE: " + this.score, 150, 280);
         },
 
         update: function () {
