@@ -463,6 +463,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.score = 0;
             this.position = 0;
             this.pipes = [];
+            this.passedPipes = [];
             this.lastPipe = null;
         },
 
