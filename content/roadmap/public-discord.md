@@ -11,7 +11,7 @@ type: page
 
 It's all about Community! WhiteBeak holder or not--everyone is welcome.
 
-Our [Discord](https://discord.gg/4DhfT6Dnqg) is designed to enhance the Chicken Derby experience and bring together like-minded derby enthusiasts for teamwork and support.
+Our [Discord](https://discord.gg/whitebeakgang) is designed to enhance the Chicken Derby experience and bring together like-minded derby enthusiasts for teamwork and support.
 
 Come chat, learn, strategize and join the fun!
 

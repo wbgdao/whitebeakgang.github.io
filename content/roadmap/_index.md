@@ -9,7 +9,7 @@ type: page
 
 It's all about Community! WhiteBeak holder or not--everyone is welcome.
 
-Our [Discord](https://discord.gg/4DhfT6Dnqg) is designed to enhance the Chicken Derby experience and bring together like-minded derby enthusiasts for teamwork and support.
+Our [Discord](https://discord.gg/whitebeakgang) is designed to enhance the Chicken Derby experience and bring together like-minded derby enthusiasts for teamwork and support.
 
 Come chat, learn, strategize and join the fun!
 
@@ -19,7 +19,7 @@ Come chat, learn, strategize and join the fun!
 
 ![WBG Snacks](/images/roadmap/wbg-snacks.jpeg "WBG Snacks")
 
-We work long and Play hard. To make sure we keep that little edge The WhiteBeaks provide free snacks and energy through the `☕️free-snacks` channel in our [Discord](https://discord.gg/4DhfT6Dnqg). 
+We work long and Play hard. To make sure we keep that little edge The WhiteBeaks provide free snacks and energy through the `☕️free-snacks` channel in our [Discord](https://discord.gg/whitebeakgang). 
 
 Early morning, late night or when you  need a little extra refueling, grab a coffee on us and let’s keep working!
 

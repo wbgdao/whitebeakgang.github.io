@@ -9,7 +9,7 @@ type: page
 | ------------------ | --------- |
 | September 4th 2021 | Complete  |
 
-We work long and Play hard. To make sure we keep that little edge The WhiteBeaks provide free snacks and energy through the `☕️free-snacks` channel in our [Discord](https://discord.gg/4DhfT6Dnqg).
+We work long and Play hard. To make sure we keep that little edge The WhiteBeaks provide free snacks and energy through the `☕️free-snacks` channel in our [Discord](https://discord.gg/whitebeakgang).
 
 Early morning, late night or when you  need a little extra refueling, grab a coffee on us and let’s keep working!
 

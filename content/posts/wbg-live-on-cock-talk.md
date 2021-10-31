@@ -10,7 +10,7 @@ The [Coop Collective](https://coopcollective.io) will be featuring WhiteBeakGang
 
 There will be giveaways and special surprises for those that tune in live! If you are already in WBG and can't make it live, don't worry as there will be something for you guys too!
 
-Remember that you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
+Remember that you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/whitebeakgang)
 
 Read below for more details on the event and how to qualify! Don't miss out!
 
@@ -23,7 +23,7 @@ Read below for more details on the event and how to qualify! Don't miss out!
 
 ## Important Giveaway Info
 
-To qualify for the giveaways you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/4DhfT6Dnqg)
+To qualify for the giveaways you will need to follow both [@WhiteBeakGang](https://twitter.com/@WhiteBeakGang) and [@cocktalkderby](https://twitter.com/@cocktalkderby) on twitter and join the [WBG Discord](https://discord.gg/whitebeakgang)
 
 The giveaways will happen in the `🎁wb-giveaway` and `🎉giveaways` channels in the discord server
 

@@ -5,7 +5,7 @@ type: page
 
 Tap to fly the OG WhiteBeak through the pipes safely without crashing!
 
-Take a screenshot of your best high score and share in the [Discord](https://discord.gg/4DhfT6Dnqg)!
+Take a screenshot of your best high score and share in the [Discord](https://discord.gg/whitebeakgang)!
 
 {{< rawhtml >}}
 <!-- <a href="https://github.com/docluv/flappybird">
