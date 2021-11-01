@@ -2,7 +2,7 @@ baseURL = "https://whitebeakgang.com/"
 defaultContentLanguage = "en"
 languageCode = "en"
 
-title = "White Beak Gang"
+title = "WhiteBeakGang"
 
 theme = "gokarna"
 
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 [params]
   footer = "WhiteBeakGang"
   accentColor = "#4F74CA"
-  description = ""
+  description = "The WhiteBeakGang provides a welcoming environment and team for gamers in the NFT space to come together as a group and work together towards our common goals. Together we win!"
   avatarURL = "/images/whitebeakgang/WhiteBeakGangLogo.jpeg"
   avatarSize = "size-m"
   customHeadHTML = '''
@@ -33,7 +33,7 @@ enableRobotsTXT = true
     {name = "facebook", url = "https://www.facebook.com/groups/whitebeakgang"},
     {name = "twitch", url = "https://www.twitch.tv/whitebeakgang"},
   ]
-  metaKeywords = ["blog", "gokarna", "hugo"]
+  metaKeywords = ["NFT", "crypto", "gaming"]
     showpostsonhomepage = "recent"
 
 [menu]
