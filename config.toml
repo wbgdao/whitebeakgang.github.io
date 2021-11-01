@@ -12,7 +12,7 @@ enableRobotsTXT = true
 [params]
   footer = "WhiteBeakGang"
   accentColor = "#4F74CA"
-  description = "The WhiteBeakGang provides a welcoming environment and team for gamers in the NFT space to come together as a group and work together towards our common goals. Together we win!"
+  description = "The WhiteBeakGang provides a welcoming environment and team for gamers in the NFT, Blockchain, and Crypto spaces to come together as a group and work together towards our common goals. Join the discord to meet the team and learn more! Together we win!"
   avatarURL = "/images/whitebeakgang/WhiteBeakGangLogo.jpeg"
   avatarSize = "size-m"
   customHeadHTML = '''
