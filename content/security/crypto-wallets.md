@@ -10,4 +10,15 @@ type: page
 - Connecting a hardware wallet to a software wallet like Metamask allows the hardware wallet to be used as a 2FA device requiring you to approve transactions both in the software and on the physical device
 - Using the combination of a Software and Hardware wallet allows you to conveniently access your favorite dApps without compromising on security
 
+## References
+
+This fantastic Guide from Ledger goes into the step by step process required to connect your Ledger Hardware wallet to your Metamask Software wallet:
+
+[https://www.ledger.com/academy/how-to-secure-your-nfts](https://www.ledger.com/academy/how-to-secure-your-nfts)
+
+## Additional Links
+
+- [Ledger site](https://www.ledger.com/)
+- [Trezor site](https://trezor.io/)
+
 [Back to Security Module](/security)
