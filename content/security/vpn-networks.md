@@ -1,5 +1,5 @@
 ---
-title: VPNs/Network
+title: VPNs and Network
 type: page
 ---
 
