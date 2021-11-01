@@ -60,6 +60,13 @@ enableRobotsTXT = true
     name = "FlappyBeak"
     post = "🐓"
     url = "/flappy-beak/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "security"
+    name = "Security"
+    post = "🔒"
+    url = "/security/"
     weight = 2
 
   [[menu.main]]
@@ -67,7 +74,7 @@ enableRobotsTXT = true
     name = "Roadmap"
     post = "🗺️"
     url = "/roadmap/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "showcase"
