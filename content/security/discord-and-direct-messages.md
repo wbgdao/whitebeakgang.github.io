@@ -11,4 +11,10 @@ type: page
 - Direct Messages containing spammy and potentially malicious links are common and must be treated appropriately.
 - Always verify Direct Messages you receive are truly from the person you think and not someone posing as a trusted individual.
 
+## References
+
+This article from Make Use Of is a very comprehensive look at some of the most common Discord security risks:
+
+[https://www.makeuseof.com/discord-security-tips-common-threats/](https://www.makeuseof.com/discord-security-tips-common-threats/)
+
 [Back to Security Module](/security)
