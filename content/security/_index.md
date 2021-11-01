@@ -2,6 +2,7 @@
 title: "Security Module"
 type: page
 image: "/images/security/security-banner.png"
+description: "The WBG Security Module is a compilation of security tips and best practices for being safe online and especially when interacting with crypto/blockchain dApps"
 ---
 
 ![Security Banner](/images/security/security-banner.png "Security Banner")
