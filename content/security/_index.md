@@ -2,12 +2,25 @@
 title: "Security Module"
 type: page
 image: "/images/security/security-banner.png"
-description: "The WBG Security Module is a compilation of security tips and best practices for being safe online and especially when interacting with crypto/blockchain dApps"
+description: "The WBG Security Module is a compilation of security tips and best practices for being safe online and especially when interacting with Crypto/Blockchain dApps"
 ---
 
 ![Security Banner](/images/security/security-banner.png "Security Banner")
 
-Below is a compilation of security tips and best practices for being safe online and especially when interacting with crypto/blockchain dApps. Read through each and take the assessment to test your knowledge. Share with others so they can learn to be safe too!
+Below is a compilation of security tips and best practices for being safe online and especially when interacting with Crypto/Blockchain dApps.
+
+Read through each and take the assessment to test your knowledge.
+
+Share with others so they can learn to be safe too!
+
+### Security Module Contents
+- [Passwords](/security#passwords)
+- [VPNs and Network](/security#vpnsnetwork)
+- [2 Factor Authentication](/security#2-factor-authentication)
+- [Phishing and Social Engineering](/security#phishing-and-social-engineering)
+- [Keyloggers and Malware](/security#keyloggers-and-malware)
+- [Software and Hardware Wallets](/security#software-and-hardware-wallets)
+- [Best Practices](/security#best-practices)
 
 ## Passwords
 
