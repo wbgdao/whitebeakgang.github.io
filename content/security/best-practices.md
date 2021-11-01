@@ -3,7 +3,7 @@ title: Best Practices
 type: page
 ---
 
-![Best Practices](/images/security/best-practices.png "Best Practices")
+![Best Practices](/images/security/best-practices.jpeg "Best Practices")
 
 - Security is a team effort requiring us all to be diligent about identifying, addressing, and informing others as to potential security risks
 - Never click links you don't recognize and always double check links you do recognize to ensure the destination address is fully correct

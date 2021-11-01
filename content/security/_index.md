@@ -1,7 +1,12 @@
 ---
 title: "Security Module"
 type: page
+image: "/images/security/security-banner.png"
 ---
+
+![Security Banner](/images/security/security-banner.png "Security Banner")
+
+Below is a compilation of security tips and best practices for being safe online and especially when interacting with crypto/blockchain dApps. Read through each and take the assessment to test your knowledge. Share with others so they can learn to be safe too!
 
 ## Passwords
 
@@ -69,7 +74,7 @@ type: page
 
 ## Best Practices
 
-![Best Practices](/images/security/best-practices.png "Best Practices")
+![Best Practices](/images/security/best-practices.jpeg "Best Practices")
 
 - Security is a team effort requiring us all to be diligent about identifying, addressing, and informing others as to potential security risks
 - Never click links you don't recognize and always double check links you do recognize to ensure the destination address is fully correct
