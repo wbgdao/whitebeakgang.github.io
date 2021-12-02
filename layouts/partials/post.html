@@ -4,14 +4,13 @@
         <img class={{ .Site.Params.AvatarSize | default "size-m" }} src='{{ .Params.image }}'>
         {{ end }}
 	</div>
-
     <div class="post-header-section">
         <h1>{{ .Title }}</h1>
         <small role="doc-subtitle">{{ .Description }}</small>
         <p class="post-date">
             {{ dateFormat "January 2, 2006" .Date }}
         </p>
-
+        <a href="https://www.buymeacoffee.com/whitebeakgang"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=whitebeakgang&button_colour=4f74ca&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>    
         <ul class="post-tags">
         {{ range .Params.tags }}
             <li class="post-tag"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
