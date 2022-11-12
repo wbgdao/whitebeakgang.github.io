@@ -13,7 +13,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png">
 </a> -->
 <!-- preload images -->
-<!-- <img class="asset" src="/assets/bird.png" />
+<!-- <img class="asset" src="/assets/wbdorking.png" />
 <img class="asset" src="/assets/cloud.png" />
 <img class="asset" src="/assets/ground.png" />
 <img class="asset" src="/assets/pipe.png" /> -->
@@ -52,12 +52,24 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             }
 
             this.img = new Image();
-            this.img.src = '/assets/pipe.png';
+            this.img.src = '/assets/purplePipe.png';
 
         },
 
         update: function () {
             this.x -= this.speed;
+            if (this.stage.score >= 5) {
+                this.img.src = '/assets/redPipe.png';
+                this.x -= this.speed / 3;
+            }
+            if (this.stage.score >= 10) {
+                this.img.src = '/assets/orangePipe.png';
+                this.x -= this.speed / 3;
+            }
+            if (this.stage.score >= 15) {
+                this.img.src = '/assets/greenPipe.png';
+                this.x -= this.speed / 3;
+            }
         },
 
         draw: function () {
@@ -82,7 +94,8 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
 
             context.fillRect(0, 0, this.width - 8, this.height - 20);
 
-            context.fillStyle = "#6e217d";
+            <!-- context.fillStyle = "#6e217d"; -->
+            context.fillStyle = "#3b3b3b";
 
             if (this.placement == flappybird.BOTTOM) {
                 context.translate(0, -this.height);
@@ -100,7 +113,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
     flappybird.Bird = Class.extend({
 
         width: 35,
-        height: 30,
+        height: 40,
 
         x: 100,
         y: 200,
@@ -122,7 +135,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.stage.canvas.addEventListener('keyup', this.flap.bind(this));
 
             this.img = new Image();
-            this.img.src = '/assets/bird.png';
+            this.img.src = '/assets/wbdorking.png';
 
             this.flapState = 0;
             this.rotation = this.defaultRotation;
@@ -167,6 +180,16 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
                 this.rotation += 0.04;
             }
 
+            if (this.stage.score >= 5) {
+                this.img.src = '/assets/wblakenvelder.png';
+            }
+            if (this.stage.score >= 10) {
+                this.img.src = '/assets/wbsultan.png';
+            }
+            if (this.stage.score >= 15) {
+                this.img.src = '/assets/wbserama.png';
+            }
+
         },
 
         draw: function () {
@@ -206,6 +229,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.y = this.stage.height / 2;
             this.rotation = this.defaultRotation;
             this.vertSpeed = 0;
+            this.img.src = '/assets/wbdorking.png';
         }
 
     });
@@ -253,7 +277,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         init: function (stage, x, y, speed) {
             this.stage = stage;
             this.img = new Image();
-            this.img.src = '/assets/cloud.png';
+            this.img.src = '/assets/wbgcloud.png';
             this.x = x;
             this.y = y;
             this.speed = speed;
