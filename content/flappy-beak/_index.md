@@ -36,7 +36,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         width: 72,
         height: 180,
 
-        speed: 2.5,
+        speed: 3.0,
 
         order: 0,
 
@@ -58,15 +58,15 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
 
         update: function () {
             this.x -= this.speed;
-            if (this.stage.score >= 5) {
+            if (this.stage.score >= 25) {
                 this.img.src = '/assets/redPipe.png';
                 this.x -= this.speed / 3;
             }
-            if (this.stage.score >= 10) {
+            if (this.stage.score >= 50) {
                 this.img.src = '/assets/orangePipe.png';
                 this.x -= this.speed / 3;
             }
-            if (this.stage.score >= 15) {
+            if (this.stage.score >= 75) {
                 this.img.src = '/assets/greenPipe.png';
                 this.x -= this.speed / 3;
             }
@@ -180,13 +180,13 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
                 this.rotation += 0.04;
             }
 
-            if (this.stage.score >= 5) {
+            if (this.stage.score >= 25) {
                 this.img.src = '/assets/wblakenvelder.png';
             }
-            if (this.stage.score >= 10) {
+            if (this.stage.score >= 50) {
                 this.img.src = '/assets/wbsultan.png';
             }
-            if (this.stage.score >= 15) {
+            if (this.stage.score >= 75) {
                 this.img.src = '/assets/wbserama.png';
             }
 
