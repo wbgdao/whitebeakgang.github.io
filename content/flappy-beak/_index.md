@@ -36,7 +36,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         width: 72,
         height: 180,
 
-        speed: 3.0,
+        speed: 2.5,
 
         order: 0,
 
@@ -60,15 +60,15 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.x -= this.speed;
             if (this.stage.score >= 25) {
                 this.img.src = '/assets/redPipe.png';
-                this.x -= this.speed / 3;
+                this.x -= this.speed / 4;
             }
             if (this.stage.score >= 50) {
                 this.img.src = '/assets/orangePipe.png';
-                this.x -= this.speed / 3;
+                this.x -= this.speed / 4;
             }
             if (this.stage.score >= 75) {
                 this.img.src = '/assets/greenPipe.png';
-                this.x -= this.speed / 3;
+                this.x -= this.speed / 4;
             }
         },
 
@@ -225,6 +225,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         },
 
         reset: function () {
+            setTimeout(console.log("Game over with score: ", this.stage.score), 3000);
             this.x = 100;
             this.y = this.stage.height / 2;
             this.rotation = this.defaultRotation;
@@ -312,6 +313,8 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.stage.context.font = "16px Helvetica";
             this.stage.context.fillStyle = "#000";
             this.stage.context.fillText(scoreText, 12, 25);
+            var highscoreText = "High Score: " + this.stage.highscore;
+            this.stage.context.fillText(highscoreText, 102, 25);
         }
 
     });
@@ -324,6 +327,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
 
         position: 0,
         score: 0,
+        highscore: 0,
 
         pipeCreationRate: 100,
         pipesHorizontalSpacing: 240,
@@ -332,7 +336,8 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         states: {
             WAIT: 0,
             PLAYING: 1,
-            GAME_OVER: 2
+            GAME_OVER: 2,
+            RESTARTING: 3
         },
 
         init: function (options) {
@@ -409,7 +414,13 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
                     if (this.bird.x > pipe.x + pipe.width) {
                         if (this.passedPipes.indexOf(pipe.order) == -1) {
                             this.passedPipes.push(pipe.order);
-                            this.score++;
+                            if (this.score >= this.highscore) {
+                                this.score++;
+                                this.highscore++;
+                            }
+                            if (this.score < this.highscore) {
+                                this.score++;
+                            }
                         }
                     }
                 }
@@ -422,6 +433,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.context.font = "bold 30px helvetica";
             this.context.fillText("GAME OVER", 150, 240);
             this.context.fillText("SCORE: " + this.score, 150, 280);
+            this.context.fillText("HIGHSCORE: " + this.highscore, 150, 320);
         },
 
         update: function () {
