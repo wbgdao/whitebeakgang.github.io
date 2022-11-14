@@ -3,9 +3,11 @@ title: "Flappy Beak"
 type: page
 ---
 
-Tap to fly the OG WhiteBeak through the pipes safely without crashing!
+Tap to fly the WhiteBeak through the pipes safely without crashing!
 
-Take a screenshot of your best high score and share in the [Discord](https://discord.gg/whitebeakgang)!
+Every 25 points you'll upgrade your heritage and the difficulty until you reach the Serama!
+
+Take a screenshot of your best high score and share in the [Discord](https://discord.gg/3PWMEDQnS3)!
 
 {{< rawhtml >}}
 <!-- <a href="https://github.com/docluv/flappybird">
