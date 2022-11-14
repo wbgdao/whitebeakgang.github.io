@@ -36,7 +36,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         width: 72,
         height: 180,
 
-        speed: 2.5,
+        speed: 2.0,
 
         order: 0,
 
@@ -60,15 +60,15 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.x -= this.speed;
             if (this.stage.score >= 25) {
                 this.img.src = '/assets/redPipe.png';
-                this.x -= this.speed / 4;
+                this.x -= this.speed / 3;
             }
             if (this.stage.score >= 50) {
                 this.img.src = '/assets/orangePipe.png';
-                this.x -= this.speed / 4;
+                this.x -= this.speed / 3;
             }
             if (this.stage.score >= 75) {
                 this.img.src = '/assets/greenPipe.png';
-                this.x -= this.speed / 4;
+                this.x -= this.speed / 3;
             }
         },
 
