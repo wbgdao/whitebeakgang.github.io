@@ -290,7 +290,7 @@
 
         init: function (stage) {
             this.stage = stage;
-            this.stage.canvas.addEventListener('click', this.flap.bind(this));
+            this.stage.canvas.addEventListener('mouseup', this.flap.bind(this));
             this.stage.canvas.addEventListener('mousedown', this.glide.bind(this));
             this.stage.canvas.addEventListener('keyup', this.flap.bind(this));
 
@@ -384,9 +384,14 @@
 
         flap: function () {
             if (this.stage.state != this.stage.states.GAME_OVER) {
-                this.vertSpeed = -7;
-                this.flapStartPosition = this.stage.position;
-                this.state = this.states.RISE;
+                if (this.state == this.states.GLIDE) {
+                    this.state = this.states.RISE;
+                }
+                if (this.state != this.states.GLIDE) {
+                    this.vertSpeed = -7;
+                    this.flapStartPosition = this.stage.position;
+                    this.state = this.states.RISE;
+                }               
             }
         },
 
