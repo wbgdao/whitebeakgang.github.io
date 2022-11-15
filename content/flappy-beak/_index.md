@@ -123,7 +123,8 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         states: {
             FLY: 0,
             RISE: 1,
-            FALL: 2
+            FALL: 2,
+            GLIDE: 3,
         },
 
         vertSpeed: 0,
@@ -133,7 +134,8 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
 
         init: function (stage) {
             this.stage = stage;
-            this.stage.canvas.addEventListener('click', this.flap.bind(this));
+            this.stage.canvas.addEventListener('mouseup', this.flap.bind(this));
+            this.stage.canvas.addEventListener('mousedown', this.glide.bind(this));
             this.stage.canvas.addEventListener('keyup', this.flap.bind(this));
 
             this.img = new Image();
@@ -158,9 +160,15 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
                 this.rotation += 0.3;
             }
 
-            this.y += this.vertSpeed;
+            if (this.state != this.states.GLIDE) {
+                this.y += this.vertSpeed;
+                this.vertSpeed += 0.6;
+            }
 
-            this.vertSpeed += 0.6;
+            if (this.state == this.states.GLIDE) {
+                this.y += this.vertSpeed/10;
+                this.vertSpeed += 0.2;
+            }
 
             if (this.state == this.states.RISE) {
                 if (this.rotation >= this.minRotation) {
@@ -220,9 +228,22 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
 
         flap: function () {
             if (this.stage.state != this.stage.states.GAME_OVER) {
+                if (this.state == this.states.GLIDE) {
+                    this.state = this.states.RISE;
+                }
+                if (this.state != this.states.GLIDE) {
+                    this.vertSpeed = -7;
+                    this.flapStartPosition = this.stage.position;
+                    this.state = this.states.RISE;
+                }               
+            }
+        },
+
+        glide: function () {
+            if (this.stage.state != this.stage.states.GAME_OVER) {
                 this.vertSpeed = -7;
                 this.flapStartPosition = this.stage.position;
-                this.state = this.states.RISE;
+                this.state = this.states.GLIDE;
             }
         },
 
@@ -359,6 +380,7 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
             this.lastPipe = null;
             this.state = this.states.WAIT;
             this.canvas.addEventListener("click", this.onclick.bind(this));
+            this.canvas.addEventListener("mousedown", this.onhold.bind(this));
         },
 
         createPipe: function () {
@@ -500,6 +522,12 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
 
             if (this.state == this.states.GAME_OVER) {
                 this.reset();
+            }
+        },
+
+        onhold: function () {
+            if (this.state == this.states.WAIT) {
+                this.state = this.states.PLAYING;
             }
         },
 
