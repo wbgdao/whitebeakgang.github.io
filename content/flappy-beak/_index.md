@@ -135,7 +135,9 @@ Take a screenshot of your best high score and share in the [Discord](https://dis
         init: function (stage) {
             this.stage = stage;
             this.stage.canvas.addEventListener('mouseup', this.flap.bind(this));
+            this.stage.canvas.addEventListener('touchend', this.flap.bind(this));
             this.stage.canvas.addEventListener('mousedown', this.glide.bind(this));
+            this.stage.canvas.addEventListener('touchstart', this.glide.bind(this));
             this.stage.canvas.addEventListener('keyup', this.flap.bind(this));
 
             this.img = new Image();
